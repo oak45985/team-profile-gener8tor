@@ -1,3 +1,3 @@
 const Company = require('./lib/Company');
 
-new Company().startCompany();
+new Company().initializeCompany();
